@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+
+a:link {
+    color: antiquewhite; 
+    background-color: transparent; 
+    text-decoration: none;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 200px;
+    margin-left: .5%;
+
+
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+  }
+
+  @media (max-width: 600px) {
+  
+    a:link {
+      font-size:75px;
+      text-justify: center;
+    }
+  }
+  
+  

@@ -1,0 +1,738 @@
+html{
+    font-family: 'Libre Baskerville', serif;
+    background-color: black;
+}
+
+
+pre {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 10px;
+}
+
+
+.flex-container {
+    Flex-direction: column;
+    }
+    
+#p1 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p1:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p2 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p2:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p3 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p3:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p4 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p4:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p5 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p5:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p6 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p6:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p7 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top:10px;
+    padding-top: 10px;
+
+}
+#p7:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p8 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+
+}
+#p8:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}#p9 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p9:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p10 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p10:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p11 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p11:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p12 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p12:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+#p13 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p13:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}#p14 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p14:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p15 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p15:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p16 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p16:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p17 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p17:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p18 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p18:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p19 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p19:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p20 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p20:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+#p21 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p21:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p22 {
+    color:antiquewhite;
+    margin-left:35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p22:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p23 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p23:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+
+}#p24 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p24:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}#p25 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p25:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p26 {
+    color:antiquewhite;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p26:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+#p27 {
+    color:antiquewhite;
+    margin-left: 50%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+#p27:hover {
+    color:red;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+}
+
+a:link {
+    color:antiquewhite;
+    text-decoration: none;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+    margin-left: 35%;
+    padding-bottom: 40px;
+    padding-top: 10px;
+  }
+  a:visited { 
+    text-decoration: none; 
+    color: antiquewhite; 
+   }
+  a:hover {
+    text-decoration: none;
+    color: red;
+    background-color: transparent;
+    -webkit-transform: scale(1.6);
+    -ms-transform: scale(1.6);
+    transform: scale(1.6);
+    transition: all 1s ease;
+  }
+ 
+   @media (max-width: 600px) {
+    .flex-container {
+        Flex-direction: column;
+        }
+    pre {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 12px;
+        }
+        
+    #p1 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    #p1:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+
+    
+    #p2 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p2:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    
+    #p3 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p3:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p4 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p4:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+   
+    #p5 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p5:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p6 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+  
+    #p6:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p7 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top:10px; 
+    }
+    #p7:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p8 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p8:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p9 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p9:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+
+    #p10 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p10:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p11 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p11:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p12 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p12:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p13 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p13:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p14 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p14:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p15 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p15:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p16 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p16:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    } 
+    #p17 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p17:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p18 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p18:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p19 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p19:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p20 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p20:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p21 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p21:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+
+    #p22 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p22:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p23 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p23:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p24 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p24:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p25 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p25:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p26 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p26:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+    #p27 {
+        color:antiquewhite;
+        margin-left: 5%;
+        padding-top: 10px;
+    }
+    #p27:hover {
+        color:red;
+        -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    }
+
+    a:link {
+        color: antiquewhite; 
+        background-color: transparent; 
+        text-decoration: none;
+        font-family: 'Libre Baskerville', serif;
+        font-size: 24px;
+        text-justify: center;
+        padding-top: 10px;
+      }
+    
+      a:visited { 
+        text-decoration: none; 
+        color: antiquewhite; 
+       }
+       a:hover {
+        color:red
+       }
+   }
+  
