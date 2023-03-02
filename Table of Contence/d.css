@@ -1,29 +1,32 @@
 .your-style {
-  font-family: 'Compagnon';
-  font-weight: normal;
-  font-style: italic;
+    font-family: 'Compagnon Roman';
+    font-weight: normal;
+    font-style: normal;
+}
+.your-style {
+    font-family: 'Compagnon';
+    font-weight: bold;
+    font-style: normal;
 }
 body{
   font-family: 'Saira Condensed', sans-serif;
-    background-color:  pink;
-    font-size: 36px;
+    background-color: pink;
     font-weight: bold;
+    font-size: 20px;
 }
   .wrapper {
     display: flex;
     flex-direction: column;
     align-items: left;
-    color: orange;
     border: 1vw solid orange;
   }
   
   h1 {
-    font-size: 36px;
+    font-size: 40px;
     font-weight: bold;
     margin: 0;
-    font-weight: bold;
     color: orange;
-
+    
   }
   
   .entries {
