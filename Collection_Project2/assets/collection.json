@@ -1,0 +1,316 @@
+[
+    {
+        "id": "yellow",
+        "image": "assets/photos 2/IMG_2629.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "5:16 PM",
+        "type": "natural",
+        "weather": "partly cloudy",
+        "location": "Greenwich Village",
+        "tone": ""
+
+    },
+
+    {
+        "id": "yellow",
+        "image": "assets/photos 2/IMG_4358.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "4:32 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Central Park",
+        "tone": ""      
+    },
+
+    {
+        "id": "green",
+        "image": "assets/photos 2/IMG_4526.jpg",
+        "hue": "green",
+        "temp": "cool",
+        "time": "5:55PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Parsons Building",
+        "tone": ""      
+    },
+
+    {
+        "id": "white",
+        "image": "assets/photos 2/IMG_4659.jpg",
+        "hue": "white",
+        "temp": "warm",
+        "time": "1:54 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Alphabet City",
+        "tone": ""       
+    },
+
+    {
+        "id": "yellow",
+        "image": "assets/photos 2/IMG_5358.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "5:20 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Woodlands, TX",
+        "tone": ""       
+    },
+
+    {
+        "id": "yellow",
+        "image": "assets/photos 2/IMG_5432.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "12:51 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Williamsburg",
+        "tone": ""       
+    },
+
+    {
+        "id": "red",
+        "image": "assets/photos 2/Image 8-30-22 at 11.12 AM (2).jpg",
+        "hue": "red",
+        "temp": "warm",
+        "time": "11:12 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "LES",
+        "tone": ""       
+    },
+
+    {
+        "id": "pink",
+        "image": "assets/photos 2/self portrait night photography.jpg",
+        "hue": "pink",
+        "temp": "cool",
+        "time": "6:23 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "LES",
+        "tone": ""       
+    },
+
+    {
+        "id": "yellow",
+        "image": "assets/photos 2/IMG_7778.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "5:30 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Parsons Building",
+        "tone": ""       
+    },
+
+    {
+        "id": "green",
+        "image": "assets/photos 2/IMG_8539.jpg",
+        "hue": "green",
+        "temp": "cool",
+        "time": "3:39 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Chelsea",
+        "tone": ""       
+    },
+
+    {
+        "id": "blue",
+        "image": "assets/photos 2/IMG_8696.jpg",
+        "hue": "blue",
+        "temp": "cool",
+        "time": "3:38 AM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Chelsea",
+        "tone": ""       
+    },
+
+    {
+        "id": "pink",
+        "image": "assets/photos 2/IMG_8258.jpg",
+        "hue": "pink",
+        "temp": "cool",
+        "time": "3:48 AM",
+        "type": "natural",
+        "weather": "sunrise",
+        "location": "Atlantic Ocean",
+        "tone": ""       
+    },
+
+    {
+        "id":"white",
+        "image": "assets/photos 2/IMG_0171.jpg",
+        "hue": "white",
+        "temp": "cool",
+        "time": "1:57 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Westminster Abbey",
+        "tone": ""       
+    },
+
+    {
+        "id":"white",
+        "image": "assets/photos 2/IMG_0206.jpg",
+        "hue": "white",
+        "temp": "cool",
+        "time": "7:29 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "London",
+        "tone": ""       
+    },
+
+    {
+        "id":"white",
+        "image": "assets/photos 2/IMG_0215.jpg",
+        "hue": "white",
+        "temp": "cool",
+        "time": "7:42 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "London",
+        "tone": ""       
+    },
+
+    {
+        "id":"white",
+        "image": "assets/photos 2/IMG_0297.jpg",
+        "hue": "white",
+        "temp": "cool",
+        "time": "11:14 AM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Tower of London",
+        "tone": ""       
+    },
+
+    {
+        "id":"yellow",
+        "image": "assets/photos 2/IMG_0725.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "10:16 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Brooklyn",
+        "tone": ""       
+    },
+
+    {
+        "id":"red",
+        "image": "assets/photos 2/IMG_0959.jpg",
+        "hue": "red",
+        "temp": "warm",
+        "time": "1:49 AM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Queens",
+        "tone": ""       
+    },
+
+    {
+        "id":"white",
+        "image": "assets/photos 2/IMG_1142.jpg",
+        "hue": "white",
+        "temp": "warm",
+        "time": "4:58 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Tower of London",
+        "tone": ""       
+    },
+
+    {
+        "id":"yellow",
+        "image": "assets/photos 2/IMG_1151.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "4:59 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Eiffel Tower",
+        "tone": ""       
+    },
+
+    {
+        "id":"white",
+        "image": "assets/photos 2/IMG_1173.jpg",
+        "hue": "white",
+        "temp": "warm",
+        "time": "5:00 PM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Rockefeller Center",
+        "tone": ""       
+    },
+
+    {
+        "id":"pink",
+        "image": "assets/photos 2/IMG_0121.jpg",
+        "hue": "pink",
+        "temp": "cool",
+        "time": "10:54 PM",
+        "type": "natural",
+        "weather": "night",
+        "location": "Atlantic Ocean",
+        "tone": ""       
+    },
+
+    {
+        "id":"pink",
+        "image": "assets/photos 2/IMG_1389.jpg",
+        "hue": "pink",
+        "temp": "warm",
+        "time": "8:08 PM",
+        "type": "artificial",
+        "weather": "snowing",
+        "location": "Breckenridge, CO",
+        "tone": ""     
+    },
+
+    {
+        "id":"red",
+        "image": "assets/photos 2/IMG_1512-2.jpg",
+        "hue": "red",
+        "temp": "warm",
+        "time": "7:37 PM",
+        "type": "natural",
+        "weather": "sunset",
+        "location": "Texas",
+        "tone": ""       
+    },
+
+    {
+        "id":"blue",
+        "image": "assets/photos 2/IMG_1217.jpg",
+        "hue": "blue",
+        "temp": "cool",
+        "time": "4:00 AM",
+        "type": "artificial",
+        "weather": "night",
+        "location": "Atlantic Ocean",
+        "tone": ""       
+    },
+    
+    {
+        "id": "yellow",
+        "image": "assets/photos 2/IMG_7929.jpg",
+        "hue": "yellow",
+        "temp": "warm",
+        "time": "4:10 PM",
+        "type": "natural",
+        "weather": "sunny",
+        "location": "Elizabeth Park/ LES",
+        "tone": ""       
+    }
+]
+
+	
