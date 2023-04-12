@@ -1,0 +1,28 @@
+h1{
+    margin-left: 5%;
+    padding-top: 3%;
+    color: #4F7942;
+    font-family: 'Changa', sans-serif;
+    font-size: 40px;
+  }
+body{
+    background-color: black;
+}
+p{
+font-size: 20px;
+    font-family: 'Changa', sans-serif;
+    margin-left: 7%;
+    margin-right:4%;
+    color: lawngreen;
+    padding-top: 3%;
+}
+a{
+    text-decoration: none;
+    color: #4F7942;
+  }
+  
+
+ a:hover{
+  color: rgb(214, 252, 0);
+      background-color: transparent;
+    }

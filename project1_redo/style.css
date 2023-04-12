@@ -1,0 +1,115 @@
+h1{
+    text-align: left;
+    padding-top: 1%;
+    padding-left: 2%;
+    color:  lawngreen;
+    font-size: 140px;
+    font-family: 'Changa', sans-serif;
+    margin-bottom: 0%;
+}
+body{
+    background-color: black;
+}
+
+
+.flex-container {
+display: flex;
+flex-direction: column;
+padding-left: 75%;
+
+}
+.flex-container > div {
+    margin: .5px;
+    width: 300px;
+    text-align: right;
+}
+
+#p1{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px;
+}
+#p2{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px;
+}
+#p3{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px;
+}
+#p4{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px;
+}
+#p5{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px;
+}
+#p6{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px;
+}
+#about{
+    font-family: 'Changa', sans-serif;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 252, 67);
+  }
+  
+
+ a:hover{
+  color: rgb(214, 252, 0);
+      background-color: transparent;
+    }
+
+
+a.visited{
+    color: #4F7942;
+}
+
+footer{
+    font-family: 'Changa', sans-serif;
+    font-size: 25px;
+    padding-top:1%;
+    margin-left: 10px;
+}
+
+@media (max-width: 600px) {
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+.flex-container > div {
+    margin: 5px;
+    width: 300px;
+    text-align: left;
+    font-size: 20px;
+}
+.flex-container {
+    padding-left: 5%;
+    }
+footer{
+        padding-top:7%;
+        padding-left: 4%;
+        text-align: left;
+    }
+#p1{
+    font-size: 25px;
+}
+#p2{
+    font-size: 25px;
+}
+#p3{
+    font-size: 25px;
+}
+#p4{
+    font-size: 25px;
+}
+#p5{
+    font-size: 25px;
+}
+#p6{
+    font-size: 25px;
+}
+}
