@@ -1,0 +1,169 @@
+html { 
+    background: url(Assets/pixel.gif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+body{
+    color:rgb(255, 0, 0);
+    font-family: 'Bruno Ace', cursive;
+    text-align: center;
+    font-size: 400%;
+    margin-bottom: 80%;
+    padding-top: 4%;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 700px;
+    text-decoration: none;
+}
+p1{
+    font-size: 30%;
+    margin-bottom:40%;
+    line-height: 1.2;
+}
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 2s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+.flex-container{
+    flex-direction:column;
+    margin-bottom: .05em;
+    text-align: left;
+    padding-top: 40%;
+    margin-left: 5%;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+#pass{
+    font-size:200%;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+#pass:hover {
+    transform: scale(1.2);
+  }
+#activity{
+    font-size: 50%;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+#activity:hover {
+    transform: scale(1.2);
+  }
+#bait{
+    font-size: 47%;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+#bait:hover {
+    transform: scale(1.2);
+  }
+#failed{
+    font-size: 30%;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+#failed:hover {
+    transform: scale(1.2);
+  }
+#shape {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(4, 4, 238);
+    border-radius: 50%;
+  }
+  #shape {
+    transition: transform 0.2s ease-in-out;
+  }
+  /* when active, double in size */
+  #shape.is-active {
+      transform: scale(2);
+    } 
+    #shape2 {
+        width: 50px;
+        height: 50px;
+        background-color: rgb(4, 4, 238);
+        border-radius: 50%;
+      }
+      #shape2 {
+        transition: transform 0.2s ease-in-out;
+      }
+      /* when active, double in size */
+      #shape2.is-active {
+          transform: scale(2);
+        } 
+        #shape3 {
+            width: 50px;
+            height: 50px;
+            background-color: rgb(4, 4, 238);
+            border-radius: 50%;
+            cursor: pointer;
+          }
+          #shape3 {
+            transition: transform 0.2s ease-in-out;
+          }
+          /* when active, double in size */
+          #shape3.is-active {
+              transform: scale(2);
+            } 
+            #shape4 {
+                width: 50px;
+                height: 50px;
+                background-color: rgb(4, 4, 238);
+                border-radius: 50%;
+              }
+              #shape4 {
+                transition: transform 0.2s ease-in-out;
+              }
+              /* when active, double in size */
+              #shape4.is-active {
+                  transform: scale(2);
+                } 
+
+    #myChart{
+        margin-top: 40%;
+
+    }
+canvas{
+    font-family: 'Bruno Ace', cursive;
+ }
+
+    #map {    
+        height: 500px; 
+    }
+    #map2 { 
+      height: 500px; 
+  }
+
+figcaption {
+  margin-top: 70%;
+  font-family: 'Bruno Ace', cursive;
+  display: table-caption;
+  caption-side: top;
+}
+
+@media (max-width: 600px) {
+h1{
+  font-size: 60%;
+  margin-top: 50%;
+}
+#myChart {
+  margin-top: 90%;
+}
+p1{
+  font-size: 15px;
+}
+#flex-container{
+  padding-top: 90%;
+}
+}
